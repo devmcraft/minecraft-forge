@@ -1,0 +1,6 @@
+Community;/chat c;Chat focus set to channel Community
+Main;/chat m;Chat focus set to channel Main
+Local;/chat l;Chat focus set to channel Local
+Private Message;;Started private conversation with (.*);usetext
+Residence;/chat r;Chat focus set to channel Residence
+Support;/chat s;Chat focus set to channel Support
